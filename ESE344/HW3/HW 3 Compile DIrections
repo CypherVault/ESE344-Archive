@@ -1,0 +1,17 @@
+Question 3
+
+g++ -std=c++17 HW3Q3.cpp -o HW3Q3 
+./HW3Q3
+
+YOU MUST USE C++17 or better 
+becuase of string literal to char pointer issue.
+
+Question 2:
+
+g++ -std=c++17 HW3Q2.cpp -o HW3Q2
+./HW3Q2
+
+Question 1:
+
+g++ -std=c++17 HW3Q1.cpp -o HW3Q1
+./HW3Q1

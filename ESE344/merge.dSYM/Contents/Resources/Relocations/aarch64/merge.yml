@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/chrisnielsen/ESE344/merge'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _printArray, symObjAddr: 0x0, symBinAddr: 0x1000037A0, symSize: 0xE8 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _printArray, symObjAddr: 0x0, symBinAddr: 0x1000037A0, symSize: 0xE8 }
+  - { offsetInCU: 0xAB, offset: 0xAB, size: 0x8, addend: 0x0, symName: _merge, symObjAddr: 0xE8, symBinAddr: 0x100003888, symSize: 0x3FC }
+  - { offsetInCU: 0x176, offset: 0x176, size: 0x8, addend: 0x0, symName: _mergeSort, symObjAddr: 0x4E4, symBinAddr: 0x100003C84, symSize: 0xE8 }
+  - { offsetInCU: 0x1D2, offset: 0x1D2, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x5CC, symBinAddr: 0x100003D6C, symSize: 0xF4 }
+...
