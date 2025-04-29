@@ -1,0 +1,10 @@
+
+Question 2:
+
+g++ -std=c++17 HW6Q2.cpp -o HW6Q2
+./HW6Q2
+
+Question 1:
+
+g++ -std=c++17 HW6Q1.cpp -o HW6Q1
+./HW6Q1
