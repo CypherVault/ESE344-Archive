@@ -1,0 +1,25 @@
+Question 1
+
+g++ -std=c++17 HW5Q1.cpp -o HW5Q1 
+./HW5Q1
+
+Question 2:
+
+g++ -std=c++17 HW5Q2.cpp -o HW5Q2
+./HW5Q2
+
+Extra Credit Compiling 1 and 2 :
+
+
+Extra credit Question 2:
+
+g++ -std=c++17 HW5Q4.cpp -o HW5Q4
+./HW5Q4
+
+
+Extra credit Question 2:
+
+g++ -std=c++17 HW5Q3.cpp -o HW5Q3
+./HW5Q3
+
+

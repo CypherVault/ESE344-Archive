@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//extra credit attempt
+//extra credit Number 2 leetcode attempt
 
 int** findTriplets(int* nums, int numsSize, int* returnSize, int** returnColumnSizes) {
     // Count valid triplets
